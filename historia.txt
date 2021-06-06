@@ -1,1 +1,3 @@
-Esta es una historia.
+Esta es una historia de inicio de git.
+
+1er documento modificado
