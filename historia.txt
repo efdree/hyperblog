@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 Esta es la historia de Erik Cardenas
 
 Erik tiene 32 años y nacio el Peru
 
 Hoy hablaremos de su historia.
-=======
+
 Esta es una historia.
 
 Mañana
 
-Oso modifico esto
->>>>>>> bb10e15aef0a085f289c6810498e1d4141e31746
+Oso modifico esto !!!!!!
