@@ -8,4 +8,12 @@ Esta es una historia.
 
 Mañana
 
+<<<<<<< HEAD
+Oso modifico este
+
+Primera modificacion
+
+Segunda modificacion
+=======
 Oso modifico esto !!!!!!
+>>>>>>> 75a257b3e31419adb2d9101044acf8451ac44ba2
